@@ -1,0 +1,5 @@
+#Reading in the file
+
+import pandas as pd
+
+pd.read_csv('C:\Users\Tom\Desktop\R Help\smsspamcollection')
