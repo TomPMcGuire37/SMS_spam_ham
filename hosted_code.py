@@ -17,3 +17,5 @@ data.info()
 nltk_tokens = nltk.word_tokenize(data['text_body'])
 print(nltk_tokens) 
 """
+
+word_list = data['text_body'].unique()
